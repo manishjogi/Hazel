@@ -1,2 +1,0 @@
-# Hazel
-Game Engine

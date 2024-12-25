@@ -1,9 +1,0 @@
-#directories
-
-.vs/
-bin/
-bin-int/
-
-#Files
-*.user
-
