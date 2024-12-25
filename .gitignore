@@ -1,52 +1,9 @@
-# Ignore Visual Studio temporary files, build results, and
-# folder settings
-*.user
-*.userosscache
-*.suo
-*.sln
-*.VC.db
-*.VC.VC.opendb
+#directories
 
-# Avoid ignoring shared files in Solution Folders
-!*.shared.*
-
-# Ignore temporary generated files
-[Bb]uild/
-[Dd]ebug/
-[Rr]elease/
-x64/
-x86/
-[Aa][Rr][Mm]/
-[Aa][Rr][Mm]64/
-bld/
-[Bb]in/
-[Oo]bj/
-[Ll]og/
-
-# Ignore Visual Studio 2022 specific files
 .vs/
+bin/
+bin-int/
 
-# CMake generated files
-[Cc][Mm]ake[Cc]ache.txt
-[Cc][Mm]ake[Ff]iles/
-Makefile
-[Cc][Mm]ake[Dd]ir[Bb]y/
-Testing/
+#Files
+*.user
 
-# Ignore JetBrains Rider project files
-.idea/
-
-# Ignore other common build system files
-.gradle/
-*.iml
-*.swp
-*.orig
-*.bak
-*.tmp
-
-# Ignore Mac system files
-.DS_Store
-
-# Ignore Windows system files
-Thumbs.db
-desktop.ini
